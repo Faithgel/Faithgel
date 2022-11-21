@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Xlib, Qt and GTK  
   
 
-- ❓ Ask me about anything related to Backend (specially if Node.js) or Linux  
+- ❓ Ask me about anything related to Backend (specially if it's Node.js or Deno) or Linux  
   
 
 - ⚡ Fun fact: I love astrophysics  
