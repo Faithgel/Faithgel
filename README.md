@@ -104,7 +104,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/angelo-patricio-orellana-aguilera-9831481b9" target="_blank">
+<a href="https://www.linkedin.com/in/angel-ore-link/"target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Faithgel" target="_blank">
