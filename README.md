@@ -6,7 +6,7 @@
 ### <div align="center">I'm Faithgel, A very passionate backend/linux developer and window manager lover.</div>  
   
 
-- 🔭 I’m currently working on StardustWM (my own window manager)
+- 🔭 I’m currently working on StardustWM (my own window manager) & Stellar (a multi-threaded web framework, just for learn and practice my coding skills :D)
   
 
 - 🌱 I’m currently learning Xlib, Qt, GTK and How to make WM(Window Manager)  
