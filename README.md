@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Xlib, Qt, GTK and How to make WM(Window Manager)  
   
 
-- ❓ Ask me about anything related to Backend (specially if it's Node.js or Deno) or Linux  
+- ❓ Ask me about anything related to Backend (specially if it's Node.js or Deno) or SysAdmin Topics(Linux btw :3)
   
 
 - ✨ Fun fact: I love astrophysics  
