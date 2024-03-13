@@ -1,16 +1,16 @@
 ### <div align="center">I'm Faithgel, A very passionate backend/linux developer and window manager lover.</div>  
   
 
-- 🔭 I’m currently working on StardustWM (my own window manager) & Stellar (a multi-threaded web framework, just for learn and practice my coding skills :D)
+- 🔭 I’m currently working on StardustWM (my own window manager) & 
   
 
-- 🌱 I’m currently learning Xlib, Qt, GTK and How to make WM(Window Manager)  
+- 🌱 I’m currently learning Zig & Go
   
 
-- ❓ Ask me about anything related to Backend (specially if it's Node.js or Deno) or SysAdmin Topics(Linux btw :3)
+- ❓ Ask me about anything related to Backend, Cloud or SysAdmin Topics(ArchLinux btw :3)
   
 
-- ✨ Fun fact: I love astrophysics  
+- ✨ Fun fact: I love astrophysics and Low Level Languages <3
   
 
 <br/>  
