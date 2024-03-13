@@ -1,7 +1,7 @@
 ### <div align="center">I'm Faithgel, A very passionate backend/linux developer and window manager lover.</div>  
   
 
-- 🔭 I’m currently working on StardustWM (my own window manager) & 
+- 🔭 I’m currently working on StardustWM (my own window manager)
   
 
 - 🌱 I’m currently learning Zig & Go
